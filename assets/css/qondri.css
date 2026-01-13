@@ -367,7 +367,7 @@ ul {
 # Navigations One
 --------------------------------------------------------------*/
 .main-header {
-  position: relative;
+  position: sticky;
   display: block;
   background-color: var(--qondri-white);
   width: 100%;
